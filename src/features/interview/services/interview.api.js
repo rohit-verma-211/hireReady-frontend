@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "https://hireready-3f2m.onrender.com",
+    baseURL: "https://hireready-zvh4.onrender.com",
     withCredentials: true,
 });
 
